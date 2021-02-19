@@ -1,0 +1,267 @@
+<font class="papago-parent"><font class="papago-source" style="display:none;">@charset "utf-8";
+</font>@charset "utf-8";
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">/* CSS Document */
+</font>/* CSS 문서 */
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">
+</font>
+
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">
+</font>
+
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">*{
+</font>*{
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">	margin: 0 auto; 
+</font>	여백: 0 자동; 
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">	padding: 0;
+</font>	패딩: 0;
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">	font-family: 'Nanum Myeongjo', serif;</font>	폰트 패밀리: '나눔 명조', 세리프;</font><font class="papago-parent"><font class="papago-source" style="display:none;">
+</font>
+
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">	list-style: none; 
+</font>	목록 유형: 없음; 
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">}
+</font>}
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">
+</font>
+
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">body{
+</font>몸{
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">	margin-top: 40px;
+</font>	여백 상단: 40˚;
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">	width: 840px;
+</font>	너비: 840˚;
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">	font-size: 12px;
+</font>	글꼴 크기: 12인치;
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">	background-image: url("../img/background.png");</font>	background-image: url("../img/limg.png";</font><font class="papago-parent"><font class="papago-source" style="display:none;">
+</font>
+
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">}
+</font>}
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">
+</font>
+
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">a{
+</font>한{
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">	text-decoration: none;
+</font>	문자 메시지: 없음;
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">	color: #404040;
+</font>	색상: #404040;
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">	display: block;
+</font>	표시: 블록;
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">	margin-bottom: 12px;
+</font>	여백 하한: 12인치;
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">}
+</font>}
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">
+</font>
+
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">/*            건드리면 안돼             */
+</font>/*            건드리면 안돼             */
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">
+</font>
+
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">header{
+</font>헤더{
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">	float: left;
+</font>	플로트: 왼쪽;
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">	width: 250px;
+</font>	너비: 250˚;
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">	background-color: rgba(255, 255, 255, 0.8);</font>	배경색: rgba(재배색, 255, 255, 0.8);</font><font class="papago-parent"><font class="papago-source" style="display:none;">
+</font>
+
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">	color: #404040;
+</font>	색상: #404040;
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">	border: 1px solid #e8e8e8;
+</font>	테두리: 1인치 솔리드 #e8e8e8;
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">	border-radius: 20px;
+</font>	테두리 장식: 20인치;
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">	padding-top: 20px;
+</font>	패딩 탑: 20인치;
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">	padding-bottom: 20px;
+</font>	패딩 하단: 20인치;
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">}
+</font>}
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">
+</font>
+
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">.logo{
+</font>.logo{
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">	float: left;
+</font>	플로트: 왼쪽;
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">	height: 100px;
+</font>	높이: 100인치;
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">	width: 250px;
+</font>	너비: 250˚;
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">	padding-top: 40px;
+</font>	패딩 탑: 40인치;
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">	padding-bottom: 30px;
+</font>	패딩 하단: 30˚;
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">	text-align: center;
+</font>	문자 메시지: 가운데;
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">}
+</font>}
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">
+</font>
+
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">.logo img{
+</font>.dvs img{
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">	height: 100px;
+</font>	높이: 100인치;
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">}
+</font>}
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">
+</font>
+
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">b{
+</font>b{
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">	font-size: 14px;
+</font>	글꼴 크기: 14인치;
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">}
+</font>}
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">
+</font>
+
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">.contact{
+</font>.contact{
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">	font-size: 11px;
+</font>	글꼴 크기: 11인치;
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">	float: left;
+</font>	플로트: 왼쪽;
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">	height: 180px;
+</font>	높이: 180°;
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">	width: 250px;
+</font>	너비: 250˚;
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">	text-align: center;
+</font>	문자 메시지: 가운데;
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">}
+</font>}
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">
+</font>
+
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">.div_menu{
+</font>.div_div{{
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">	height: 590px;
+</font>	높이: 590인치;
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">	width: 100px;
+</font>	너비: 100인치;
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">	text-align: center;
+</font>	문자 메시지: 가운데;
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">}
+</font>}
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">
+</font>
+
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">.navi{
+</font>.navi{
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">	margin-bottom: 10px;
+</font>	여백 하한: 10˚;
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">}
+</font>}
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">
+</font>
+
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">.navi>li>a:hover{
+</font>.navi>li>a:hover{
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">	color: #B8DFCF;
+</font>	색상: #B8DFCF;
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">}
+</font>}
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">
+</font>
+
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">.submenu{
+</font>.submenu{
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">	float: left;
+</font>	플로트: 왼쪽;
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">	display: none;
+</font>	표시: 없음;
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">}
+</font>}
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">
+</font>
+
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">.submenu>li>a{
+</font>.submenu>li>a{{
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">	color: #545454;</font>	색상: #545454;</font><font class="papago-parent"><font class="papago-source" style="display:none;">
+</font>
+
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">}
+</font>}
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">
+</font>
+
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">.submenu>li>a:hover{
+</font>.submenu>li>a:hover{
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">	color: #B8DFCF;
+</font>	색상: #B8DFCF;
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">}
+</font>}
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">
+</font>
+
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">.btlogo{
+</font>.btlogo{
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">	text-align: center;
+</font>	문자 메시지: 가운데;
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">	padding-bottom: 15px;
+</font>	패딩 하단: 15인치;
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">}
+</font>}
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">
+</font>
+
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">.copy{
+</font>.copy{
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">	font-size: 11px;
+</font>	글꼴 크기: 11인치;
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">	float: left;
+</font>	플로트: 왼쪽;
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">	width: 250px;
+</font>	너비: 250˚;
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">	text-align: center;
+</font>	문자 메시지: 가운데;
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">	padding-bottom: 50px;
+</font>	패딩 하단: 50˚;
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">}
+</font>}
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">
+</font>
+
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">
+</font>
+
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">/*             오른쪽 컨텐츠            */
+</font>/*             오른쪽 컨텐츠            */
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">.content{
+</font>.content{
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">	float: right;
+</font>	플로트: 오른쪽;
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">	height: 640px;
+</font>	높이: 640㎝;
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">	width: 480px;
+</font>	너비: 480˚;
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">	background-color: rgba(255, 255, 255, 0.8);</font>	배경색: rgba(재배색, 255, 255, 0.8);</font><font class="papago-parent"><font class="papago-source" style="display:none;">
+</font>
+
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">	color: #404040;
+</font>	색상: #404040;
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">	border: 1px solid #e8e8e8;
+</font>	테두리: 1인치 솔리드 #e8e8e8;
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">	border-radius: 20px;
+</font>	테두리 장식: 20인치;
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">	padding: 55px 45px 55px 45px; 
+</font>	패딩: 55px 45px 55px 45px; 
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">	text-align: center;
+</font>	문자 메시지: 가운데;
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">
+</font>
+
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">}
+</font>}
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">
+</font>
+
+</font><font class="papago-parent"><font class="papago-source" style="display:none;">
+</font>
+
+</font>
