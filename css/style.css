@@ -113,7 +113,11 @@ b{
 	border-radius: 20px;
 	padding: 55px 45px 55px 45px; 
 	text-align: center;
+}
 
+.main_text{
+	margin-top: 180px;
+	margin-bottom: 180px;
 }
 
 
