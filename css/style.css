@@ -1,0 +1,119 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+*{
+	margin: 0 auto; 
+	padding: 0;
+	font-family: 'Nanum Myeongjo', serif;
+	list-style: none; 
+}
+
+body{
+	margin-top: 40px;
+	width: 840px;
+	font-size: 12px;
+	background-image: url("../img/background.png");
+}
+
+a{
+	text-decoration: none;
+	color: #404040;
+	display: block;
+	margin-bottom: 12px;
+}
+
+/*            건드리면 안돼             */
+
+header{
+	float: left;
+	width: 250px;
+	background-color: rgba(255, 255, 255, 0.8);
+	color: #404040;
+	border: 1px solid #e8e8e8;
+	border-radius: 20px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.logo{
+	float: left;
+	height: 100px;
+	width: 250px;
+	padding-top: 40px;
+	padding-bottom: 30px;
+	text-align: center;
+}
+
+.logo img{
+	height: 100px;
+}
+
+b{
+	font-size: 14px;
+}
+
+.contact{
+	font-size: 11px;
+	float: left;
+	height: 180px;
+	width: 250px;
+	text-align: center;
+}
+
+.div_menu{
+	height: 590px;
+	width: 100px;
+	text-align: center;
+}
+
+.navi{
+	margin-bottom: 10px;
+}
+
+.navi>li>a:hover{
+	color: #B8DFCF;
+}
+
+.submenu{
+	float: left;
+	display: none;
+}
+
+.submenu>li>a{
+	color: #545454;
+}
+
+.submenu>li>a:hover{
+	color: #B8DFCF;
+}
+
+.btlogo{
+	text-align: center;
+	padding-bottom: 15px;
+}
+
+.copy{
+	font-size: 11px;
+	float: left;
+	width: 250px;
+	text-align: center;
+	padding-bottom: 50px;
+}
+
+
+/*             오른쪽 컨텐츠            */
+.content{
+	float: right;
+	height: 640px;
+	width: 480px;
+	background-color: rgba(255, 255, 255, 0.8);
+	color: #404040;
+	border: 1px solid #e8e8e8;
+	border-radius: 20px;
+	padding: 55px 45px 55px 45px; 
+	text-align: center;
+
+}
+
+
