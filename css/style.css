@@ -11,7 +11,7 @@
 
 body{
 	margin-top: 40px;
-	width: 840px;
+	width: 1090px;
 	font-size: 12px;
 	background-image: url("../img/background.png");
 }
@@ -109,7 +109,7 @@ b{
 
 /*             오른쪽 컨텐츠            */
 .content{
-	float: right;
+	float: left;
 	height: 640px;
 	width: 480px;
 	background-color: rgba(255, 255, 255, 0.8);
@@ -127,14 +127,14 @@ b{
 
 /*             게시판 페이징            */
 .pagination-wrapper{
-	float: right;
-	height: 100px;
-	width: 20px;
+	float: left;
+	width: 250px;
 	background-color: rgba(255, 255, 255, 0.8);
 	color: #404040;
 	border: 1px solid #e8e8e8;
 	border-radius: 20px;
-	padding: 55px 45px 55px 45px; 
+	padding-top: 20px;
+	padding-bottom: 20px;
 	text-align: center;
 }
 
