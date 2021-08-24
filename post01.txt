@@ -32,7 +32,7 @@
 		<nav class="menu">
 			<ul class="navi">
 				<li><a href="./index.html"><b>&nbsp;  MAIN ✦</b></a></li>
-				<li><a href="./post/post01.html"><b>&nbsp;  POST ✧</b></a></li>
+				<li><a href="./post01.html"><b>&nbsp;  POST ✧</b></a></li>
 				<li><a><b>&nbsp;  BACK UP ✦</b></a>
 					<ul class="submenu">
 						<li><a href="./profile_list.html"><b>&nbsp;  Profile ✦</b></a></li>
