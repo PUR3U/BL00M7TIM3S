@@ -1,4 +1,3 @@
-<script type="text/javascript">
 /* 페이지 이동 ( 페이징 처리 callback 함수 ) */
 fncGoLink = function(currPage, pageSize, section){
   $("input[name='currPage']").val(currPage);
@@ -143,5 +142,3 @@ var pagingObj = {};
         else $(target).hide();
     };
 })(window);
-
-</script>
