@@ -130,7 +130,7 @@ b{
 /*             게시판 페이징            */
 .pagination-wrapper{
 	float: left;
-	width: 10px;
+	width: 30px;
 	background-color: rgba(255, 255, 255, 0.8);
 	color: #404040;
 	border: 1px solid #e8e8e8;
