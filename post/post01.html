@@ -11,6 +11,7 @@
 	<link href="../css/style.css" type="text/css" rel="stylesheet">
 	<script src="../script/jquery-1.12.3.js"></script>
 	<script src="../script/script.js" defer type="text/javascript"></script>
+	<script src="../script/paging.js" type="text/javascript"></script>
 </head>
 
 <!--- 메뉴 좌측 세로정렬--->
@@ -65,9 +66,20 @@
 	✦ ✦ ✦
 </div>
 	
-<div class="pagination-wrapper clearfix">
-	<ul class="pagination float--right" id="pages">
-	</ul>
+<form>
+	<input type="hidden" name="currPage" />
+	<input type="hidden" name="pageSize" />
+</form>
+<div class="listHead">
+	.... list head content ....
+</div>
+<div class="listBody">
+	.... list body content ....
+</div>
+<div class="listFooter">
+	<div class="paginate"></div>
+</div>
+	
 </div>
 
 
