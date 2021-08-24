@@ -109,7 +109,7 @@ b{
 
 /*             오른쪽 컨텐츠            */
 .content{
-	float: none;
+	float: right;
 	height: 640px;
 	width: 480px;
 	background-color: rgba(255, 255, 255, 0.8);
