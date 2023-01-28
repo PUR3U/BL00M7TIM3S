@@ -54,7 +54,8 @@ header{
 	height: 100px;
 }
 
-b{
+.bold{
+	font-weight: bold;
 	font-size: 14px;
 }
 
