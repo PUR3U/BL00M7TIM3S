@@ -32,6 +32,7 @@ img  {
 
 header {
 	float: left;
+	position: absolute;
 	width: 250px;
 	background-color: rgba(255, 255, 255, 0.8);
 	color: #404040;
@@ -68,17 +69,31 @@ header {
 }
 
 .menu {
+	position: absolute;
 	height: 590px;
 	width: 100px;
 	text-align: center;
+	z-index: 1;
 }
 
 .navi {
 	margin-bottom: 30px;
 }
 
+.navi>li {
+	float: left;
+	width: 100px;
+}
+
+.navi>li>a {
+	color: #545454;
+	width: 100px;
+	height: 30px;
+	line-height: 130%;
+}
+
 .navi>li>a:hover {
-	color: #B8DFCF;
+	color: #BDBAFF;
 }
 
 .submenu {
@@ -100,7 +115,7 @@ header {
 }
 
 .submenu>li>a:hover {
-	color: #B8DFCF;
+	color: #BDBAFF;
 }
 
 .btlogo {
