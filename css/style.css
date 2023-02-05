@@ -83,8 +83,9 @@ header {
 
 .submenu {
 	float: left;
-	left: 100px;
+	width: 100px;
 	height: 100%;
+	left: 100px;
 	top: 0px;
 	display: none;
 	position: absolute;
@@ -93,6 +94,9 @@ header {
 
 .submenu>li>a {
 	color: #545454;
+	width: 100px;
+	height: 30px;
+	line-height: 130%;
 }
 
 .submenu>li>a:hover {
