@@ -128,14 +128,12 @@ header{
 	text-align: center;
 }
 
-/*.main_text{
-	margin-top: 100px;
-	margin-bottom: 100px;
-}*/
+.main_text{
+	line-height: 130%;
+/
 
 .slide_button {
   /* layout */
-  display: flex;
   justify-content: center;
   align-items: center;
 
@@ -149,8 +147,6 @@ header{
   height: 32px;
 
   /* style */
-  border-radius: 100%;
-  background-color: #cccc;
   cursor: pointer;
 }
 
