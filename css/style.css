@@ -2,35 +2,35 @@
 /* CSS Document */
 
 
-*{
+* {
 	margin: 0 auto; 
 	padding: 0;
 	font-family: 'Nanum Myeongjo', serif;
 	list-style: none; 
 }
 
-body{
+body {
 	margin-top: 40px;
 	width: 850px;
 	font-size: 12px;
 	background-image: url("../img/background.png");
 }
 
-a{
+a {
 	text-decoration: none;
 	color: #404040;
 	display: block;
 	margin-bottom: 12px;
 }
 
-img{
+img  {
 	max-width: 100%; 
 	height: auto;
 }
 
 /*            건드리면 안돼             */
 
-header{
+header {
 	float: left;
 	width: 250px;
 	background-color: rgba(255, 255, 255, 0.8);
@@ -41,7 +41,7 @@ header{
 	padding-bottom: 20px;
 }
 
-.logo{
+.logo {
 	float: left;
 	height: 100px;
 	width: 250px;
@@ -50,16 +50,16 @@ header{
 	text-align: center;
 }
 
-.logo img{
+.logo img {
 	height: 100px;
 }
 
-.bold{
+.bold {
 	font-weight: bold;
 	font-size: 14px;
 }
 
-.contact{
+.contact {
 	font-size: 11px;
 	float: left;
 	height: 150px;
@@ -67,21 +67,21 @@ header{
 	text-align: center;
 }
 
-.div_menu{
+.menu {
 	height: 590px;
 	width: 100px;
 	text-align: center;
 }
 
-.navi{
+.navi {
 	margin-bottom: 30px;
 }
 
-.navi>li>a:hover{
+.navi>li>a:hover {
 	color: #B8DFCF;
 }
 
-.submenu{
+.submenu {
 	float: left;
 	left: 100px;
 	height: 100%;
@@ -91,20 +91,20 @@ header{
 	z-index: 1;
 }
 
-.submenu>li>a{
+.submenu>li>a {
 	color: #545454;
 }
 
-.submenu>li>a:hover{
+.submenu>li>a:hover {
 	color: #B8DFCF;
 }
 
-.btlogo{
+.btlogo {
 	text-align: center;
 	padding-bottom: 15px;
 }
 
-.copy{
+.copy {
 	font-size: 11px;
 	float: left;
 	width: 250px;
@@ -114,7 +114,7 @@ header{
 
 
 /*             오른쪽 컨텐츠            */
-.content{
+.content {
 	float: left;
 	height: 640px;
 	width: 480px;
@@ -128,15 +128,11 @@ header{
 	text-align: center;
 }
 
-.main_text{
+.main_text {
 	line-height: 130%;
-/
+}
 
 .slide_button {
-  /* layout */
-  justify-content: center;
-  align-items: center;
-
   /* position */
   position: absolute;
   /* 버튼이 중앙에 위치하게 하기위해 계산 */
