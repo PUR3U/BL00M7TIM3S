@@ -150,8 +150,6 @@ header {
 }
 
 .slide_button {
-  /* position */
-  position: absolute;
   /* 버튼이 중앙에 위치하게 하기위해 계산 */
   top: calc(50% - 16px);
 
