@@ -87,7 +87,7 @@ header {
 	color: #545454;
 	width: 100px;
 	height: 30px;
-	line-height: 1.6;
+	line-height: 1.8;
 }
 
 .navi>li>a:hover {
@@ -109,7 +109,7 @@ header {
 	color: #545454;
 	width: 100px;
 	height: 30px;
-	line-height: 1.6;
+	line-height: 1.8;
 }
 
 .submenu>li>a:hover {
@@ -146,7 +146,7 @@ header {
 }
 
 .main_text {
-	line-height: 1.6;
+	line-height: 1.8;
 }
 
 .slide_button {
